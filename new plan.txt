@@ -12,3 +12,9 @@ I know, You have excellent experience for teaching in English but I know my prob
 Don't stress your mind na krub ajan Dom, I just want to solve my problem in a short time (6 months)
 
 
+IPartner
+- Adding and editing the words in a JSON file.
+- Making the code more flexible.
+- Think about finding the way out to solve the problem of a calendar is not display the result in small screen.
+- Testing and deployment of a web application after editing.
+- Contacted with testers to gather requirement in order.
